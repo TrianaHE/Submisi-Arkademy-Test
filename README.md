@@ -2,10 +2,10 @@
 Submisi Arkademy Test
 
 Aplikasi yang digunakan untuk menjalankan program:
-bisa menggunakan compiler online untuk JAVA.
+bisa menggunakan compiler online untuk JAVA dan localhost (ex:XAMPP) untuk php.
 
 Jawaban tugas:
-1. jawaban_1.html
+1. jawaban_1.php
 2. Validation.java
 3. Segitiga.java
 4. -
